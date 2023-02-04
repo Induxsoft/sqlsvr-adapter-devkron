@@ -1,0 +1,1 @@
+Es necesario editar el archivo adapters.xml para incluir el adaptador de SQL Server
